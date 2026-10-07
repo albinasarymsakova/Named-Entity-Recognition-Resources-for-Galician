@@ -111,9 +111,14 @@ If you use these resources, please cite the paper that describes them:
 
 ```bibtex
 
-@article{,
+@article{Sarymsakova_Mariotti_Pérez Puente_Garcia_2026,
+title={Named Entity Recognition Across Datasets and Domains: Resources and Models for Galician},
+DOI={10.1017/nlp.2026.10040},
+journal={Natural Language Processing},
+author={Sarymsakova, Albina and Mariotti, Ettore and Pérez Puente, Helena and Garcia, Marcos},
+year={2026},
+pages={1–34}}
 
-}
 ```
 
 ## References
